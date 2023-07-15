@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5mdpLx/tHGsKo4vR4oi8kH17gzDJL1tstbl9vngJ0rk=",
+  "Source": "API_REST_SP",
+  "BasePath": "_content/API_REST_SP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
